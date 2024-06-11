@@ -69,6 +69,8 @@ The `feature_extractor` function extracts features from an image using the VGG16
 
 ## Usage
 
+**First run featureExtractor.py to get features.pkl
+
 1. **Run the Streamlit app:**
     ```bash
     streamlit run app.py
